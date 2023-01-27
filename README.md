@@ -1,6 +1,6 @@
 # xdhwid
 **
-hardware id change 
+hardware id changer 
 python < 3
 ** 
 <br>
